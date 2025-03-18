@@ -155,6 +155,5 @@ Pull requests are welcome! If you find a bug or have a feature request, feel fre
 ## 🏆 Credits
 
 Developed by **Zain Ul Arfeen**  
-Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)  
-GitHub: [zainularfeen](https://github.com/zainularfeen)
+GitHub: [zainularfeen](https://github.com/ZainUlOfficial)
 
