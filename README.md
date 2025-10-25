@@ -15,7 +15,7 @@ Laravel Seeder Generator is a powerful package that allows you to generate **see
 ✅ **Option to overwrite existing seeders**  
 ✅ **Efficient memory handling using Laravel's cursor**  
 ✅ **Easy installation and simple usage**  
-✅ **Supports Laravel 9+**  
+✅ **Supports Laravel 11+**  
 
 ---
 
